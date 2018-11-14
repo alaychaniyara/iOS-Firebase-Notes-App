@@ -1,0 +1,6 @@
+framework module Pods_iOS_Inclass05 {
+  umbrella header "Pods-iOS-Inclass05-umbrella.h"
+
+  export *
+  module * { export * }
+}
